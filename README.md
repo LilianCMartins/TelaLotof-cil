@@ -4,7 +4,7 @@
 
 ## Projeto
 
-Foi desenvolvido uma tela em Java para que os usuários possam fazer suas apostas na Lotofácil.
+Foi desenvolvido uma tela em Java para que os usuários possam fazer suas apostas na Loto Fácil.
 
 ## Como funciona?
 
