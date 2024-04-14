@@ -17,7 +17,7 @@ Segue como funciona a tela da Loto Fácil.
 
 https://github.com/LilianCMartins/TelaLotof-cil/assets/85973291/846b57ad-0a7a-4aef-ac88-c0e5f3e10648
 
-##Autora
+## Autora
 
 Lilian Carla dos Santos Martins
 
